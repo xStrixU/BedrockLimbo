@@ -1,6 +1,6 @@
 # BedrockLimbo
 ## Co to limbo?
-Limbo to prosty serwer, najczęściej używany pod Lobby, który pozwala utrzymać ogromną liczbę graczy przy niskim koszcie procesora.
+Limbo to prosty serwer, najczęściej używany pod pocxrkalnie, który pozwala utrzymać ogromną liczbę graczy na niskim koszcie procesora.
 
 ![image](https://i.imgur.com/vknk0nB.png)
 
