@@ -7,7 +7,7 @@ Limbo to prosty serwer, najczęściej używany pod Lobby, który pozwala utrzyma
 ## Uruchamianie
 Aby uruchomić Limbo, należy je pobrać z [tego miejsca](https://github.com/xStrixU/BedrockLimbo/releases), a następnie odpalić używając komendy:
 ```text
-java -jar BedrockLimbo-1.0-SNAPSHOT.jar
+java -jar BedrockLimbo.jar
 ```
 
 ## Konfiguracja
