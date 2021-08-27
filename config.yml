@@ -1,0 +1,16 @@
+address: "0.0.0.0"
+port: 19132
+maxPlayers: 10
+motd: "&6BedrockLimbo &7by &bxStrixU"
+
+joinMessage:
+  - "&8[-------------( &d&lBedrockLimbo &8)-------------]"
+  - " "
+  - " &8» &7Witaj na &cBedrockLimbo&7!"
+  - " &8» &7Aktualna liczba graczy: &c{PLAYER_COUNT}"
+  - " "
+  - " &8» &7Zapraszamy na: &chttps://projectcode.pl"
+  - " "
+  - "&8[-------------( &d&lBedrockLimbo &8)-------------]"
+
+serverStopped: "&cLimbo zostalo wylaczone!"

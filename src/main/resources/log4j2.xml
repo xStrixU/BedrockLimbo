@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" packages="net.minecrell.terminalconsole">
+    <Appenders>
+        <TerminalConsole name="Console">
+            <PatternLayout noConsoleNoAnsi="true"
+                           pattern="%cyan{%d{HH:mm:ss}} [%style{%highlight{%level}{STYLE=Logback}}] %minecraftFormatting{%msg}%n"/>
+        </TerminalConsole>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>
